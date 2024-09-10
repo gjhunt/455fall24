@@ -11,7 +11,7 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 1|R 8-29 | introduction |  | [notes](lns/lec1.pdf)|  | | 
 2|T 9-3 | statistical learning | [SP1](sp/SP1_questions.pdf) | [notes](lns/lec2.pdf)| [.ipynb](code/lab1_intro.ipynb) |  [QP 1](qp/qp1.pdf) due Sept 10 | 
 3|R 9-5 | linear regression | | [notes](lns/lec3.pdf)|   | 
-4|T 9-10 | KNN | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab2_regression.ipynb)| [QP 2](qp/qp2.pdf) due Sept 17| 
+4|T 9-10 | KNN | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab2_regression.ipynb) [.ipynb](code/lab3_knn.ipynb)| [QP 2](qp/qp2.pdf) due Sept 17| 
 5|R 9-12 | evaluation | --- | [notes](lns/lec5.pdf) | [.ipynb](code/lab3_knn.ipynb) |   | 
 6|T 9-17 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) | [QP 3](qp/qp3.pdf) due Sept 24 |
 7|R 9-19 | even more evaluation | | [notes](lns/lec7.pdf)|   |  | 
