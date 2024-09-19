@@ -13,8 +13,8 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 3|R 9-5 | linear regression | | [notes](lns/lec3.pdf)|   | 
 4|T 9-10 | KNN | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab2_regression.ipynb) [.ipynb](code/lab3_knn.ipynb)| [QP 2](qp/qp2.pdf) due Sept 17| 
 5|R 9-12 | evaluation | --- | [notes](lns/lec5.pdf) |  |   | 
-6|T 9-17 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) | [QP 3](qp/qp3.pdf) due Sept 24 |
-7|R 9-19 | even more evaluation | | [notes](lns/lec7.pdf)|   |  | 
+6|T 9-17 | bias-variance tradeoff | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) | [QP 3](qp/qp3.pdf) due Sept 24 |
+7|R 9-19 | KNN and linear class | | [notes](lns/lec7.pdf)   | [.ipynb](code/lab5_knn_class.ipynb)  | 
 8|T 9-24 | risk minimization |  --- | [notes](lns/lec8.pdf)|  | [QP 4](qp/qp4.pdf) due Oct 1 |
 9|R 9-26 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb)| | 
 10 |T 10-1 | LDA and QDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab6_lda.ipynb) [.ipynb](code/lab7_qda.ipynb) | [QP 5](qp/qp5.pdf) due Oct 8 | 
