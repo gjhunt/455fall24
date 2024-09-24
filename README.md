@@ -15,7 +15,7 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 5|R 9-12 | evaluation | --- | [notes](lns/lec5.pdf) |  |   | 
 6|T 9-17 | bias-variance tradeoff | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) | [QP 3](qp/qp3.pdf) due Sept 26 |
 7|R 9-19 | KNN and linear class | | [notes](lns/lec7.pdf)   | [.ipynb](code/lab5_knn_class.ipynb)  | 
-8|T 9-24 | LDA and QDA |  --- | [notes](lns/lec8.pdf)|  |  |
+8|T 9-24 | LDA and QDA |  --- | [notes](lns/lec8.pdf)| [.ipynb](code/lab6_lda.ipynb) |  |
 9|R 9-26 | logistic regression | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb)| [QP 4](qp/qp4.pdf) due Oct 3 | 
 10 |T 10-1 | variable selection | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab6_lda.ipynb) |  | 
 11 |R 10-3 | ridge regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_logistic.ipynb)| [QP 5](qp/qp5.pdf) due Oct 10 |    |
