@@ -32,7 +32,7 @@ Weds 9-10AM, 2-3 PM
 | purpose | date/time |
 | - | - |
 | last day to add/drop | Monday Sept. 9th |
-| midterm | Thursday Oct 19th in class | 
+| midterm | Thursday Oct 17th in class | 
 | last day to withdraw | Monday Oct. 28th  |
 | final | 2:00 p.m. - 5:00 p.m. Monday Dec. 9th |
 
