@@ -21,7 +21,7 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 11 |R 10-3 | ridge regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab9_colinear.ipynb) [.ipynb](code/lab10_ridge.ipynb)| [QP 5](qp/qp5.pdf) due Oct 15 |    |
 12|T 10-8 | LASSO |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab11_lasso.ipynb) [.ipynb](code/lab12_loss.ipynb)  |  | 
 . |R 10-10 | fall break (no classes) | 
-13 | T 10-15 | PCA |  | [notes](lns/lec13.pdf)|   [ipynb](code/lab10_ridge.ipynb)| [QP6](qp/qp6.pdf) due Oct 22  | 
+13 | T 10-15 | PCA |  | [notes](lns/lec13.pdf)|   [ipynb](code/lab13_glmnet.ipynb) [ipynb](code/lab14_pcaviz.ipynb)| [QP6](qp/qp6.pdf) due Oct 22  | 
 .| R 10-17 | midterm | ||||
 14|T 10-22 | PCR | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab11_lasso.ipynb) | [QP7](qp/qp7.pdf) due Oct 29 | 
 15|R 10-24 | k-means | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab12_loss.ipynb) [.ipynb](code/lab13_glmnet.ipynb) [.ipynb](code/lab14_pcaviz.ipynb)  |    | 
