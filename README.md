@@ -25,7 +25,7 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 .| R 10-17 | midterm | ||||
 14|T 10-22 | PCA | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab15_pca.ipynb) | [QP7](qp/qp7.pdf) due Oct 29 | 
 15|R 10-24 | PCR and k-means | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab16_pcr.ipynb)  |    | 
-16|T 10-29 | hierarchical clustering | -- | [notes](lns/lec16.pdf) | [.ipynb](code/lab15_pca.ipynb) |  [QP8](qp/qp8.pdf) due Nov 5 | 
+16|T 10-29 | hierarchical clustering | -- | [notes](lns/lec16.pdf) | [.ipynb](code/lab17_kmeans.ipynb) |  [QP8](qp/qp8.pdf) due Nov 5 | 
 17 |R 10-31 | trees and random forests | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lab16_pcr.ipynb)  |  |
 . | T 11-5 | Election Day (no classes) | 
 18|R 11-7 | boosting | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab17_kmeans.ipynb)  |  [QP9](qp/qp9.pdf) due Nov 14 | 
