@@ -30,8 +30,8 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 . | T 11-5 | Election Day (no classes) | 
 18|R 11-7 | bagging | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab19_trees.ipynb)  |   | 
 19|T 11-12 | random forests | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) |  [QP9](qp/qp9.pdf) due Nov 19 | 
-20|R 11-14 | boosting | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab19_trees.ipynb) [.ipynb](code/lab20_rf.ipynb) | | 
-21 | T 11-19 | more boosting | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab21_boosting.ipynb) | [QP10](qp/qp10.pdf) due Nov 26
+20|R 11-14 | boosting | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab20_rf.ipynb)  | | 
+21 | T 11-19 | more boosting | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab21_boosting.ipynb) | 
 22 | R 11-21 | NNs | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab22_nn.ipynb) |
 23 |T 11-26 | more NNs  | --- |[notes](lns/lec23.pdf)| 
 23|R 11-30 | thanksgiving (no classes) | --- | --- |
