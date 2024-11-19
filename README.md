@@ -32,7 +32,7 @@ No. | date | topics | suggested problems (SP) | notes | code | quiz problem (QP)
 19|T 11-12 | random forests | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab20_rf.ipynb) |  [QP9](qp/qp9.pdf) due Nov 19 | 
 20|R 11-14 | boosting | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab21_boosting.ipynb)  | | 
 21 | T 11-19 | more boosting | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab21_boosting.ipynb) | 
-22 | R 11-21 | NNs | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab22_nn.ipynb) |
+22 | R 11-21 | NNs | --- | [notes](lns/lec21.pdf)|  |
 23 |T 11-26 | more NNs  | --- |[notes](lns/lec23.pdf)| 
 23|R 11-30 | thanksgiving (no classes) | --- | --- |
 24|T 12-5 | presentations  | --- | --- | --- | ---| 
